@@ -1,0 +1,5 @@
+{
+	"shell_cmd": "make",
+	"working_dir": "$project_path/build",
+	"file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+}
